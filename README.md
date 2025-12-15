@@ -12,7 +12,7 @@ Olá! Me chamo Gabriel Moraes e sou desenvolvedor com foco em front-end, interes
             src="https://custom-icon-badges.demolab.com/badge/GitHub-devsparki-181717?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <a href="https://www.linkedin.com/in/gabriel-moraes-02588a352/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
